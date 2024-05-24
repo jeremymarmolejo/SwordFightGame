@@ -1,3 +1,3 @@
-# Gaming files
-Heree to build my skills and share to many easy and fun games to learn to code
+# Intermediate Javascript/html project
+Here is my first project that took a decent amount time. Uses Object orientated Programming for the fighters and hmtl basics for health bars, Clock, and building the canvas.Enjoy!!!
 
